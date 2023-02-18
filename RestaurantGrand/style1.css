@@ -1,0 +1,14 @@
+body{
+    margin: 0px;
+    height: 800px;
+}
+h2{
+    text-align: center;
+    color: #ff0000
+}
+div{
+    height: 100%;
+    width: 100%;
+    border: solid 1px black;
+    
+}
